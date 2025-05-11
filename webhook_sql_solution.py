@@ -7,9 +7,9 @@ SUBMISSION_URL = 'https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/PYTHON'
 
 # User Data
 USER_DATA = {
-    "name": "John Doe",
-    "regNo": "REG12347",
-    "email": "john@example.com"
+    "name": "Aditi Yadav",
+    "regNo": "REG1218",
+    "email": "aditiyadav220806@acropolis.in"
 }
 
 def generate_webhook():
